@@ -3,7 +3,7 @@ import inspect
 
 URL = "http://gfn-brio03:9200/portal/#/login"
 USERNAME = "brio_admin"
-PASSWORD = "xxxxxx"
+PASSWORD = "brio_admin"
 
 
 def whoami():
