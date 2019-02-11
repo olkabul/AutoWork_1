@@ -1,0 +1,6 @@
+Assertion error occured
+assert 'Dalet Brio Web Portal' == 'Dalet Brio Web PortalAAA'
+  - Dalet Brio Web Portal
+  + Dalet Brio Web PortalAAA
+  ?                      +++
+Test Completed
