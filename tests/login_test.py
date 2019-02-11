@@ -28,7 +28,7 @@ class TestLogin():
             homepage.click_admin()
             homepage.click_logout()
             x = driver.title
-            assert x == "Dalet Brio Web PortalAAA"
+            assert x == "Dalet Brio Web Portal"
 
         except AssertionError as error:
             print("Assertion error occurred")
